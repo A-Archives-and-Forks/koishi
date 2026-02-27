@@ -18,7 +18,9 @@ tsconfig.temp.json
 /test
 /.yalc
 
-todo.md
+CLAUDE.md
+TODO.md
+
 yarn.lock
 yalc.lock
 node_modules/
@@ -29,6 +31,7 @@ package-lock.json
 tsconfig.tsbuildinfo
 report.*.json
 
+.claude
 .eslintcache
 .DS_Store
 .idea
